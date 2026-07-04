@@ -1,4 +1,4 @@
-# ⌚ Watch Ecommerce Website
+# ⌚ Luxury Watch Website
 
 A responsive multi-page luxury watch website developed using **HTML**, **CSS**, and **JavaScript**. The project showcases a modern and elegant interface for exploring luxury watches while demonstrating front-end web development skills, responsive layouts, and user-friendly navigation.
 
@@ -6,17 +6,19 @@ A responsive multi-page luxury watch website developed using **HTML**, **CSS**, 
 
 ## 📖 Overview
 
-The **Luxury Watch Website** was developed as an academic team project to design and build a visually appealing and responsive website for a luxury watch brand. The website focuses on providing an engaging browsing experience with a clean layout, intuitive navigation, and attractive product presentation.
+The **Luxury Watch Website** was developed as an academic team project to design and build a visually appealing and responsive website for a luxury watch brand. The website focuses on creating an engaging browsing experience through clean layouts, intuitive navigation, and attractive product presentation.
 
 ---
 
 ## ✨ Features
 
 - 🏠 Responsive Home Page
-- ⌚ Luxury Watch Collection
+- ⌚ Product Collection Page
 - 📖 About Us Page
-- 🧭 Responsive Navigation Bar
-- 🎨 Modern and Elegant User Interface
+- 📰 Blog Page
+- 🔬 Research Page
+- 🧭 Responsive Navigation
+- 🎨 Modern User Interface
 - 📱 Mobile-Friendly Design
 
 ---
@@ -32,9 +34,10 @@ The **Luxury Watch Website** was developed as an academic team project to design
 ## 📂 Project Structure
 
 ```text
-Watch-Website/
+Luxury-Watch-Website/
 │
 ├── Images/
+├── Screenshots/
 ├── css/
 ├── pages/
 ├── README.md
@@ -48,19 +51,23 @@ Watch-Website/
 
 ### 🏠 Home Page
 
-*(Add Home Page screenshot here.)*
+![Home Page](Screenshots/home-page.jpeg)
 
 ### ⌚ Products Page
 
-*(Add Products Page screenshot here.)*
+![Products Page](Screenshots/products-page.jpeg)
 
 ### 📖 About Us
 
-*(Add About Us screenshot here.)*
+![About Us](Screenshots/about-us-page.jpeg)
 
-### 📞 Contact Page
+### 📰 Blog Page
 
-*(Add Contact Page screenshot here.)*
+![Blog Page](Screenshots/blog-page.jpeg)
+
+### 🔬 Research Page
+
+![Research Page](Screenshots/research-page.jpeg)
 
 ---
 
@@ -86,6 +93,8 @@ This project was developed collaboratively as part of an academic coursework pro
 ## 👩‍💻 Author
 
 **Nitisha Nepal**
+
+Computer Networking & IT Security Student
 
 ---
 
